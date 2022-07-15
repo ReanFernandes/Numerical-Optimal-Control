@@ -1,0 +1,2 @@
+function cas()
+import casadi.*
